@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/calor-en-mi-alma/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Calor en mi alma](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/calor-en-mi-alma/) |
+| **Get License** | [Obtain a Music License for Calor en mi alma](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/calor-en-mi-alma/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, tú tienes el calor en mi alma,
+> Una mirada y me robas la calma.
+> Bailando suave, rompiendo la pista,
+> Eres la reina, mi bella obsesión a la vista.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
