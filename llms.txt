@@ -15,7 +15,7 @@
 | **Written On** | June 21, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/calor-en-mi-alma/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Calor en mi alma](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/calor-en-mi-alma/) |
+| **Get License** | [Secure Licensing Rights for Calor en mi alma](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/calor-en-mi-alma/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -44,7 +44,7 @@
 
 ## 🔗 Song Links
 
-- [Telegram](https://t.me/AbuSayedMusic/3978)
+- [Telegram](https://t.me/AbuSayedMusic/3983)
 
 ---
 
