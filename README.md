@@ -12,10 +12,10 @@
 |-------|---------|
 | **Title** | Calor en mi alma |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
-| **Written On** | June 09, 2026 |
+| **Written On** | June 21, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/calor-en-mi-alma/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Calor en mi alma](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/calor-en-mi-alma/) |
+| **Get License** | [Get a Licensing Quote for Calor en mi alma](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/calor-en-mi-alma/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,10 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> Baby, tú tienes el calor en mi alma,
-> Una mirada y me robas la calma.
-> Bailando suave, rompiendo la pista,
-> Eres la reina, mi bella obsesión a la vista.
+> Calor en mi alma when you move like that
+> Your silhouette burning through the midnight black
+> I feel the fire rising, there's no turning back
+> Calor en mi alma, yeah, you know that's fact
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
