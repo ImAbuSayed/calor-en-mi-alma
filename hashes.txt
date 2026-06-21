@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Calor en mi alma
+
+This log tracks the cryptographic history and versioning for the song **Calor en mi alma** (calor-en-mi-alma).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-22T04:48:40.804878 | `v1` | `2ec004900977e93378bd79e2ca0e4ae73aa915d258d83c57023a9defa4db5243` | `77b2a4eb71173715cb426c535db8f4686077d9df9e28ec6e7b78a2b4bc9d85e3` | `2026-06-22_calor-en-mi-alma-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
