@@ -5,6 +5,7 @@ This log tracks the cryptographic history and versioning for the song **Calor en
 | Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
 |:----------|:--------|:-------------------|:-----------------|:------------|
 | 2026-06-22T04:48:40.804878 | `v1` | `2ec004900977e93378bd79e2ca0e4ae73aa915d258d83c57023a9defa4db5243` | `77b2a4eb71173715cb426c535db8f4686077d9df9e28ec6e7b78a2b4bc9d85e3` | `2026-06-22_calor-en-mi-alma-v1.txt` |
+| 2026-06-22T04:55:41.138076 | `v2` | `c756449f86d3f790d57dd16c3b9f356a377b79ecb8e1ee382bc077616c203ad5` | `746051649292315441b3804f7b5fc987425020df25401e5d6f99fbc42370eb99` | `2026-06-22_calor-en-mi-alma-v2.txt` |
 
 ---
 *Written and Curated by Abu Sayed*
